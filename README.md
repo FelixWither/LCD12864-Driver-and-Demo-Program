@@ -1,1 +1,1 @@
-# LCD12864_Driver_and_Demo_Program
+# LCD12864 Driver and Demo Program
